@@ -16,8 +16,8 @@ This Streamlit application provides an interactive platform for students to lear
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/biology-learning-assistant.git
-   cd biology-learning-assistant
+   git clone https://github.com/lalomorales22/Biology-Learning-Assistant-Streamlit100.git
+   cd Biology-Learning-Assistant-Streamlit100
    ```
 
 2. Install the required packages:
